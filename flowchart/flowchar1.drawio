@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T13:02:39.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="Yloy6_aDe37o9F3RLZfu" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T17:51:38.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="zMVJicpfgALYhtt7p4F4" version="14.3.2" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="860" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ihWL2O-T4YDyIbIVYdE0-1" value="Donate - Location" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="160" height="140" as="geometry" />
+          <mxGeometry x="380" y="380" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ihWL2O-T4YDyIbIVYdE0-2" value="Enter address" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -70,17 +70,23 @@
         <mxCell id="ihWL2O-T4YDyIbIVYdE0-4" value="(Once address is selected, Map will appear to pin point the location with marker)" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-1">
           <mxGeometry y="78" width="160" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ihWL2O-T4YDyIbIVYdE0-5" value="Donate - Location" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="160" height="140" as="geometry" />
+        <mxCell id="ihWL2O-T4YDyIbIVYdE0-5" value="Donate - Category" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="590" y="380" width="120" height="256" as="geometry" />
         </mxCell>
-        <mxCell id="ihWL2O-T4YDyIbIVYdE0-6" value="Enter address" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-5">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="ihWL2O-T4YDyIbIVYdE0-8" value="Food&lt;br&gt;Cloths&lt;br&gt;Footwear&lt;br&gt;Utensiles&lt;br&gt;Small Electronics&lt;br&gt;Toys&lt;br&gt;Magzines&lt;br&gt;Medicines&lt;br&gt;Books&lt;br&gt;Magzines&lt;br&gt;Linen/Wollenwear&lt;br&gt;Hygine Essentials&lt;br&gt;Mobiles" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-5">
+          <mxGeometry y="26" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ihWL2O-T4YDyIbIVYdE0-7" value="Fetch Location" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-5">
-          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        <mxCell id="ihWL2O-T4YDyIbIVYdE0-9" value="Donate-Mens Cloths" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ihWL2O-T4YDyIbIVYdE0-8" value="(Once address is selected, Map will appear to pin point the location with marker)" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-5">
-          <mxGeometry y="78" width="160" height="52" as="geometry" />
+        <mxCell id="ihWL2O-T4YDyIbIVYdE0-10" value="Tops (Shirts/T-Shirts)&lt;br&gt;Bottom&lt;br&gt;Outwear&lt;br&gt;Athletic Wear&lt;br&gt;Sleep wear&lt;br&gt;Hats&lt;br&gt;Ties&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-9">
+          <mxGeometry y="26" width="130" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="ihWL2O-T4YDyIbIVYdE0-11" value="Donate-Women Cloth" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="750" y="540" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ihWL2O-T4YDyIbIVYdE0-12" value="Tops (Shirts/T-Shirts)&lt;br&gt;Bottom&lt;br&gt;Dresses&lt;br&gt;Athletic Wear&lt;br&gt;Sleep wear&lt;br&gt;Hats&lt;br&gt;Outwear" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ihWL2O-T4YDyIbIVYdE0-11">
+          <mxGeometry y="26" width="130" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
